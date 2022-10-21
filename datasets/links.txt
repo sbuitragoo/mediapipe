@@ -1,0 +1,8 @@
+FER-2013: https://www.kaggle.com/datasets/msambare/fer2013
+JAFFE: https://paperswithcode.com/dataset/jaffe
+CK+: https://paperswithcode.com/dataset/ck
+CMU-MultiPIE: https://old.datahub.io/dataset/multipie
+AffecNet: https://paperswithcode.com/dataset/affectnet
+Iemocap: https://paperswithcode.com/dataset/iemocap
+
+More related datasets: https://sci-hub.se/https://doi.org/10.1016/j.matpr.2021.07.046
